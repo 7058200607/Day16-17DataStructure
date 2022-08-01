@@ -31,7 +31,7 @@ namespace Day16And17DataStructure
 
         // A utility function to print
         // array of size n
-       public  void printArray(int[] arr) 
+       public void printArray(int[] arr) 
         {
             int n = arr.Length;
             for (int i = 0; i < n; ++i)
